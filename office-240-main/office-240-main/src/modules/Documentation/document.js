@@ -5,7 +5,7 @@ const document = () => {
   return (
     <Card>
         <CardBody>
-<CardTitle>Document</CardTitle>
+<CardTitle>VW Document</CardTitle>
         </CardBody>
     </Card>
   

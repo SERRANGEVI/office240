@@ -5,7 +5,7 @@ const excel = () => {
   return (
     <Card>
     <CardBody>
-<CardTitle>Visionware Excel</CardTitle>
+<CardTitle>Visionware Technologies Excel</CardTitle>
     </CardBody>
 </Card>
   )
